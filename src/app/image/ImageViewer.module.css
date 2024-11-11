@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f5f5f5;
+  }
+  
+  .imageContainer {
+    max-width: 80%;
+    text-align: center;
+  }
+  
+  .image {
+    max-width: 100%;
+    max-height: 80vh;
+    object-fit: contain;
+  }
+  
